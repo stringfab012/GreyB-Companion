@@ -1,6 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+This is small companion program for every person working and researching in IP domain and in particular working for Greyb Pvt Ltd.
+<!--Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,24 +17,20 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- The purpose of the project is to make Switching between diffrent links easily while working in IP domain projects.
+- Acess the Company's dashboard,resource planner and diffrent website smoothly with the click of a single button. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Cmd Batch Scripting
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Provides a single Dashboard for all the relevant links. 
+- Easy to navigate to diffrent IP website links.
+
 
 
 ## Screenshots
@@ -42,10 +38,10 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+<!--## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Proceed to describe how to install / setup one's local environment / get started with the project. -->
 
 
 ## Usage
