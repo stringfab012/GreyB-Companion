@@ -34,8 +34,8 @@ List the ready features here:
 
 
 ## Screenshots
-!(./img/Dashboard.png)
-![Algorithm schema](./img/toolbox.png)
+!(./imges/Dashboard.png)
+![Algorithm schema](./imges/toolbox.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
