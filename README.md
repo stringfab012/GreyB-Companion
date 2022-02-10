@@ -43,7 +43,7 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-After pulling the relevant file into your local machine, just double click it to run it
+After pulling the relevant file(In this case it is Companion.exe) into your local machine, just double click it to run it
 
 `Choose you options wisely after running the file`
 
