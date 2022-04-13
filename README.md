@@ -1,5 +1,5 @@
 # Project Name
-This is small companion program for every person working and researching in IP domain and in particular working for Greyb Pvt Ltd.
+This is small companion program for every person working and researching in IP domain.
 <!--Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
